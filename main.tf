@@ -1,3 +1,6 @@
+
+# This part is the EC2
+
 provider "aws" {
   region = "us-east-2"  # Replace with the appropriate region
 }
